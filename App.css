@@ -1,0 +1,11 @@
+.topnav{
+      display:flex;
+      background-color: rgb(19, 79, 59);
+      text-align: center;
+      color: white;
+      padding-left: 330px;
+}
+.photo{
+  display: flex;
+  border-image: fill;
+}
